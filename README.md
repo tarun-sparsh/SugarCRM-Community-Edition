@@ -26,4 +26,3 @@ I'm not affiliated with SuiteCRM or SalesAgility (the authors and maintainers of
 # Help, I'm Stuck with a Legacy CRM System
 I can usually help with situations like this :) Shoot me an email and we'll chat. If I can't help you I'll help you find someone who can!
 
--- Matthew Poer <matthewpoer@gmail.com>.
